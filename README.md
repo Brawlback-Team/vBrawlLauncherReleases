@@ -10,3 +10,4 @@ To use, simply:
 1. Unzip the contents of the release on this page.
 2. Place the launcher and icon.png in a place where Dolphin is tracking ISOs, or add the unzipped folder to the ISO paths.
 3. Put the sd.raw in the User\Wii folder of Dolphin, or repath the SD Card to the sd.raw in the unzipped folder.
+4. Set Brawl as your default ISO.
