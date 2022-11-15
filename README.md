@@ -9,7 +9,7 @@ The following Gecko codes are included:
 * Frozen PS2, WarioWare, Pictochat
 * Remove New! Icons Over Unlocked Characters \[WhiteTPoison\]
 * Tags in replays [Y.S]
-* Allow Replays Longer Than Three Minutes [brkirch]
+* Allow Replays Longer Than Three Minutes \[brkirch\]
 
 To use, simply:
 1. Unzip the contents of the release on this page.
