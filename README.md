@@ -8,7 +8,7 @@ The following Gecko codes are included:
 * Change Controls on CSS \[ChaseMcDizzle, Fracture, Yohan1044\]
 * Frozen PS2, WarioWare, Pictochat
 * Remove New! Icons Over Unlocked Characters \[WhiteTPoison\]
-* Tags in replays [Y.S]
+* Tags in replays \[Y.S\]
 * Allow Replays Longer Than Three Minutes \[brkirch\]
 
 To use, simply:
